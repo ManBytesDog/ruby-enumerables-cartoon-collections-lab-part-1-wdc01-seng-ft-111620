@@ -10,5 +10,4 @@ def list_dwarves(array)
     puts "#{num}. #{element}"
     num += 1 
   end 
-    
 end
